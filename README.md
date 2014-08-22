@@ -15,7 +15,7 @@ Files in the Repository
 Objectives of Repository
 ------------------------
 
-1. Create an R Script called run_analysis that does the following:
+Create an R Script called run_analysis that does the following:
 - Merges the training and the test sets to create one data set
 - Extracts only the measurements on the mean and standard deviation for each measurement
 - Uses descriptive activity names to name the activities of the data set
