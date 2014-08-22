@@ -192,3 +192,18 @@ Features:
 - fBodyGyroJerkMag - skewness()
 - fBodyGyroJerkMag - kurtosis()
 - angle()
+
+Variables:
+- activity_labels
+- data_features
+- data_subject.test
+- data_x.test
+- data_y.test
+- data_subject.train
+- data_x.train
+- data_y.train
+- data_test
+- data_Train
+- data_All
+- data_Melt
+- data_Tidy
