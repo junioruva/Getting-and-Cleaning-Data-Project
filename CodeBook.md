@@ -27,6 +27,13 @@ For each record in the dataset it is provided:
 
 Code Book
 ---------
+Activity Labels:
+- WALKING2
+- WALKING_UPSTAIRS3
+- WALKING_DOWNSTAIRS4
+- SITTING5
+- STANDING6
+- LAYING
 
 Features:
 - tBodyAcc - mean()
