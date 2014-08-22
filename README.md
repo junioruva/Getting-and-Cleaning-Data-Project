@@ -9,7 +9,7 @@ Files in the Repository
 -----------------------
 
 1. README.md
-2. CODEBOOK.md
+2. CodeBook.md
 3. run_analysis.R
 
 Objectives of Repository
