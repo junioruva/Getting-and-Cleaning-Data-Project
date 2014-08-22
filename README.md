@@ -22,11 +22,9 @@ Create an R Script called run_analysis that does the following:
 - Appropriately labels the data set with descriptive variable names
 - Creates a second, independent tidy data set with the average of each variable for each 
   activity and each subject
-  
-2. Provide a Codebook that describes the variables, data and transformations, or work
+- Provide a Codebook that describes the variables, data and transformations, or work
    performed to clean up the data
-   
-3. Incorporate a README file to expalin how all of the scripts work and how they are connected
+- Incorporate a README file to expalin how all of the scripts work and how they are connected
 
 run_analysis script
 -------------------
